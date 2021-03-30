@@ -1,0 +1,9 @@
+{
+  "id": "autotagging-extension",
+  "name": "autotagging-extension",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Symbols"
+  ]
+}
